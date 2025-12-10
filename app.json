@@ -37,10 +37,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "maza-app-project-1234"
-      }
-    }
+  "extra": {
+  "eas": {
+    "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
   }
-}
+  }
+    
