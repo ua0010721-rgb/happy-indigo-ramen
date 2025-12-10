@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "MazaApp",
-    "slug": "maza-app",
+    "name": "Maza App",
+    "slug": "imran-khan-",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "mazaapp",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -15,31 +14,17 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
+      "package": "com.maza.app",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "permissions": [
-        "CAMERA",
-        "READ_EXTERNAL_STORAGE",
-        "WRITE_EXTERNAL_STORAGE",
-        "RECORD_AUDIO",
-        "ACCESS_FINE_LOCATION",
-        "ACCESS_COARSE_LOCATION",
-        "VIBRATE"
-      ],
-      "package": "com.maza.app"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+        "backgroundColor": "#FFFFFF"
+      }
     },
     "extra": {
       "eas": {
-        "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
+        "projectId": "imran-khan-"
       }
     }
   }
