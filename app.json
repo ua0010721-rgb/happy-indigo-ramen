@@ -2,6 +2,7 @@
   "expo": {
     "name": "Maza App",
     "slug": "imran-khan-",
+    "owner": "ua0010721-rgb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "android": {
       "package": "com.maza.app",
       "adaptiveIcon": {
@@ -23,7 +22,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
+        "projectId": "70623639-f045-41e8-845f-b9a7a..."
       }
     },
     "sdkVersion": "54.0.0",
