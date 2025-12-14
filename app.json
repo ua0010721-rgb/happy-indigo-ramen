@@ -29,3 +29,8 @@
     "platforms": ["ios", "android", "web"]
   }
 }
+"extra": {
+  "eas": {
+    "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
+  }
+}
