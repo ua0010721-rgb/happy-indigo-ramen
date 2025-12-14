@@ -11,32 +11,26 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "package": "com.mazapro.app",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "ios": {
+      "bundleIdentifier": "com.mazapro.app",
+      "buildNumber": "1.0.0"
     },
-    "owner": "ua0010721-rgb",
     "extra": {
       "eas": {
-        "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
+        "projectId": "ua0010721-rgb"
       }
     },
-    "sdkVersion": "54.0.0",
-    "platforms": ["ios", "android", "web"]
+    "owner": "ua0010721-rgb"
   }
 }
