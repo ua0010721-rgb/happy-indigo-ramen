@@ -28,9 +28,15 @@
     },
     "extra": {
       "eas": {
-        "projectId": "ua0010721-rgb"
+        "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
       }
     },
-    "owner": "ua0010721-rgb"
+    "owner": "ua0010721-rgb",
+    "sdkVersion": "54.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
   }
 }
