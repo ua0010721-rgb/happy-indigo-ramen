@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Maza App",
-    "slug": "imran-khan",
+    "name": "Mazapro",
+    "slug": "mazapro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,12 +17,18 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
-      "package": "com.maza.app",
+      "package": "com.mazapro.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
     },
     "owner": "ua0010721-rgb",
     "extra": {
