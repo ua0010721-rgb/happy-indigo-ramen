@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Maza App",
-    "slug": "imran-khan-",
+    "name": "MazaPro",
+    "slug": "mazapro",
     "owner": "ua0010721-rgb",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -12,7 +12,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "android": {
       "package": "com.maza.app",
       "adaptiveIcon": {
@@ -22,15 +24,14 @@
     },
     "extra": {
       "eas": {
-        "projectId": "70623639-f045-41e8-845f-b9a7a..."
+        "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
       }
     },
     "sdkVersion": "54.0.0",
-    "platforms": ["ios", "android", "web"]
-  }
-}
-"extra": {
-  "eas": {
-    "projectId": "70623639-f045-41e8-845f-b9a7acd34903"
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
   }
 }
