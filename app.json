@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mazapro",
-    "slug": "mazapro",
+    "slug": "mazapro-90ydist22rgletljo5llk",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "314d3712-4c6e-46f1-a701-470bff65c96b"
+        "projectId": "271b70e9-97e7-497b-9848-657edd601203"
       }
     },
     "owner": "ubaidahmad",
