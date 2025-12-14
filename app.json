@@ -26,7 +26,12 @@
       "bundleIdentifier": "com.mazapro.app",
       "buildNumber": "1.0.0"
     },
-    "owner": "ua0010721-rgb",
+    "extra": {
+      "eas": {
+        "projectId": "314d3712-4c6e-46f1-a701-470bff65c96b"
+      }
+    },
+    "owner": "ubaidahmad",
     "sdkVersion": "54.0.0",
     "platforms": [
       "ios",
