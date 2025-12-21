@@ -2,11 +2,7 @@
   "build": {
     "production": {
       "android": {
-        "buildType": "apk",
-        "credentialsSource": "remote"
-      },
-      "ios": {
-        "buildType": "release"
+        "buildType": "apk"
       }
     }
   }
