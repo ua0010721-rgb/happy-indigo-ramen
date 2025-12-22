@@ -1,12 +1,11 @@
 {
   "cli": {
-    "appVersionSource": "packageJson"
+    "appVersionSource": "local"
   },
   "build": {
     "production": {
       "android": {
-        "buildType": "apk",
-        "credentialsSource": "remote"
+        "buildType": "apk"
       }
     }
   }
