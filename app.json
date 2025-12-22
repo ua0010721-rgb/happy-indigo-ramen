@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mazapro",
-    "slug": "mazapro-90ydist22rgletljo5llk",
+    "name": "Sanaya",
+    "slug": "sanaya-",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,26 +11,21 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
-    "android": {
-      "package": "com.mazapro",
-      "versionCode": 1,
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "bundleIdentifier": "com.mazapro",
-      "buildNumber": "1.0.0"
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ubaidahmad.sanaya",
+      "versionCode": 1
     },
     "extra": {
       "eas": {
-        "projectId": "271b70e9-97e7-497b-9848-657edd601203"
+        "projectId": "c8fef261-7f22-4a97-8c28-e81149659bb4"
       }
     },
-    "owner": "ubaidahmad",
-    "sdkVersion": "54.0.0",
-    "platforms": ["ios", "android", "web"]
+    "owner": "ubaidahmad"
   }
 }
